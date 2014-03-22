@@ -130,7 +130,7 @@
         <dependency>
             <groupId>com.thoughtworks.xstream</groupId>
             <artifactId>xstream</artifactId>
-            <version>1.4.2</version>
+            <version>${xstream.version}</version>
         </dependency>
 
         <!-- web -->
